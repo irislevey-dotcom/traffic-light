@@ -1,0 +1,24 @@
+
+State Machine - |main|timer_fsm:s_fsm|state
+Name state.S_RED state.S_YEL state.S_GREEN 
+state.S_RED 0 0 0 
+state.S_GREEN 1 0 1 
+state.S_YEL 1 1 0 
+
+State Machine - |main|timer_fsm:l_fsm|state
+Name state.S_RED state.S_YEL state.S_GREEN 
+state.S_RED 0 0 0 
+state.S_GREEN 1 0 1 
+state.S_YEL 1 1 0 
+
+State Machine - |main|direction_controller:straight_ctrl|state
+Name state.IDLE state.RUN state.PRE 
+state.IDLE 0 0 0 
+state.PRE 1 0 1 
+state.RUN 1 1 0 
+
+State Machine - |main|direction_controller:left_ctrl|state
+Name state.IDLE state.RUN state.PRE 
+state.IDLE 0 0 0 
+state.PRE 1 0 1 
+state.RUN 1 1 0 
