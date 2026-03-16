@@ -73,7 +73,7 @@ module direction_controller(
         // Red is ON in IDLE and PRE, FSM drives colors in RUN
         red_on    = (state == IDLE || state == PRE);
         yellow_on = 0;
-        green_on  = 0s;
+        green_on  = 0;
     end
 
 endmodule
