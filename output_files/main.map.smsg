@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at main.v(74): object "BCD1" differs only in case from object "bcd1" in the same scope File: C:/Users/Lab PC/Desktop/Quartus_Projects/Traffic Light 3/main.v Line: 74
+Info (10281): Verilog HDL Declaration information at main.v(75): object "BCD0" differs only in case from object "bcd0" in the same scope File: C:/Users/Lab PC/Desktop/Quartus_Projects/Traffic Light 3/main.v Line: 75
